@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+    color: red;
+    text-decoration: underline dotted;
+}
+div{
+    padding-left: 650px;
+    
+} 
+#description{
+    text-align: center;
+    font-size: large;
+    
+    
+}
+h2{
+    text-align: center;
+    text-decoration: underline;
+} 
+#five{
+    padding-left: 550px;
+}
+b{
+    text-decoration: underline;
+}
